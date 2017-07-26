@@ -1,0 +1,48 @@
+*   [33mcommit 758642a19cc46a1a4931c7d94a928ac302bcee3a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 4161c09 0f8455e
+[31m|[m [32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[31m|[m [32m|[m Date:   Wed Jul 26 13:32:24 2017 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'new_style'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 0f8455e84e6a1d8119e4a9333c7df80640f1fa4e[m[33m ([m[1;32mnew_style[m[33m)[m
+[31m|[m [32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[31m|[m [32m|[m Date:   Wed Jul 26 13:12:41 2017 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     izmenenie style
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 4161c09aab36ae916bee9c6c6df41fea02cb0b9b[m
+[32m|[m [32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[32m|[m [32m|[m Date:   Wed Jul 26 13:17:57 2017 +0400
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     izmenenie 3
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit fae48a9c70e91806db7ca4d7141ce9949fe51e58[m
+[32m|[m[32m/[m  Author: Nikita Ertanov <payne71@yandex.ru>
+[32m|[m   Date:   Wed Jul 26 13:16:08 2017 +0400
+[32m|[m   
+[32m|[m       set  second izm
+[32m|[m 
+* [33mcommit 4c375e8ebbb725dd3a227e535402ea39aae3ab52[m
+[32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[32m|[m Date:   Wed Jul 26 13:07:29 2017 +0400
+[32m|[m 
+[32m|[m     add Style
+[32m|[m 
+* [33mcommit 3a36d764a448072bbb60b53e8fe615981a71338b[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[32m|[m Date:   Wed Jul 26 11:37:07 2017 +0400
+[32m|[m 
+[32m|[m     third commit
+[32m|[m 
+* [33mcommit ed4235294fc9eabe52919a374b076962f8fd1066[m
+[32m|[m Author: Nikita Ertanov <payne71@yandex.ru>
+[32m|[m Date:   Wed Jul 26 11:34:31 2017 +0400
+[32m|[m 
+[32m|[m     second commit
+[32m|[m 
+* [33mcommit ee78bf35dc8f55a9081ea06efa9c37ff5973adc8[m
+  Author: Nikita Ertanov <payne71@yandex.ru>
+  Date:   Wed Jul 26 11:32:13 2017 +0400
+  
+      First commit
